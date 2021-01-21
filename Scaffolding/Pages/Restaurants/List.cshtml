@@ -1,0 +1,65 @@
+﻿@page
+@model Scaffolding.Pages.Restaurants.ListModel
+@{
+}
+
+@*<script src="https://kit.fontawesome.com/6f477bdc49.js" crossorigin="anonymous"></script>*@
+
+<h1>Test Restaurant view</h1>
+
+@if (@Model.Message != null)
+{
+  <div class="alert alert-success">
+    @Model.Message
+  </div>
+}
+
+<form method="get">
+  <div class="form-group">
+    <div class="input-group">
+      <input type="search" class="form-control" asp-for="SearchTerm" />
+      <div class="input-group-append">
+        <button class="btn btn-secondary">
+          <i class=""></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</form>
+
+@*<table class="table">
+    @foreach (var restaurant in Model.Restaurants)
+    {
+      <tr>
+        <td>@restaurant.Name</td>
+        <td>@restaurant.Location</td>
+        <td>@restaurant.Cuisine</td>
+        <td>
+          <a class="btn btn-lg"
+             asp-page="./Detail" asp-route-restaurantId="@restaurant.Id">
+            <i class="btn btn-info ">Info</i>
+          </a>
+          <a class="btn btn-lg"
+             asp-page="./Edit" asp-route-restaurantId="@restaurant.Id">
+            <i class="btn btn-dark ">Edit</i>
+          </a>
+          <a class="btn btn-lg"
+             asp-page="./Delete" asp-route-restaurantId="@restaurant.Id">
+            <i class="btn btn-danger ">Delete</i>
+          </a>
+
+        </td>
+      </tr>
+    }
+  </table>*@
+@foreach (var restaurant in Model.Restaurants)
+{
+  <partial name="_Summary" model="restaurant" />
+}
+
+<a asp-page="./Edit" class="btn btn-primary">Add New</a>
+
+@section footer {
+  <div>@Model.Footer</div>
+
+}

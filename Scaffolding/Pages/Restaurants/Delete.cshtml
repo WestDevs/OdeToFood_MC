@@ -1,0 +1,13 @@
+﻿@page "{restaurantId:int}"
+@model Scaffolding.Pages.Restaurants.DeleteModel
+@{
+  ViewData["Title"] = "Confirmation Message";
+}
+
+<h1>Confirm Delete</h1>
+<div class="alert-danger">Are you sure you want to delete @Model.Restaurant.Name?</div>
+<form method="post" class="alert-warning">
+  <button type="submit" class="btn btn-warning">Confirm</button>
+  <a class="btn btn-link" asp-page="List">Cancel</a>
+
+</form>

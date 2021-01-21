@@ -1,0 +1,30 @@
+﻿@page  "{restaurantId:int}"
+@model Scaffolding.Pages.Restaurants.DetailModel
+@{
+  ViewData["Title"] = "Detail";
+}
+
+@* quite messy to write , better to write t in pagemodel itself
+  @if(Model == null)*@
+
+ 
+
+<h2>@Model.Restaurant.Name</h2>
+
+@if (Model.Message != null)
+{
+  <div class="alert alert-info">@Model.Message</div>
+}
+
+<div>
+  Id: @Model.Restaurant.Id
+</div>
+<div>
+  Location: @Model.Restaurant.Location
+</div>
+<div>
+  Cuisine: @Model.Restaurant.Cuisine
+</div>
+
+<p></p>
+<a asp-page="./List" class="btn btn-light">All Restaurants</a> 

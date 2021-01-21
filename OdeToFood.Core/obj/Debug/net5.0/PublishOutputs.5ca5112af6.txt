@@ -1,0 +1,14 @@
+c:\temp\odetofood\OdeToFood.Core.dll
+c:\temp\odetofood\OdeToFood.Core.runtimeconfig.json
+c:\temp\odetofood\OdeToFood.Core.pdb
+c:\temp\odetofood\Microsoft.EntityFrameworkCore.dll
+c:\temp\odetofood\Microsoft.EntityFrameworkCore.Abstractions.dll
+c:\temp\odetofood\Microsoft.Extensions.Caching.Abstractions.dll
+c:\temp\odetofood\Microsoft.Extensions.Caching.Memory.dll
+c:\temp\odetofood\Microsoft.Extensions.DependencyInjection.dll
+c:\temp\odetofood\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+c:\temp\odetofood\Microsoft.Extensions.Logging.dll
+c:\temp\odetofood\Microsoft.Extensions.Logging.Abstractions.dll
+c:\temp\odetofood\Microsoft.Extensions.Options.dll
+c:\temp\odetofood\Microsoft.Extensions.Primitives.dll
+c:\temp\odetofood\OdeToFood.Core.deps.json

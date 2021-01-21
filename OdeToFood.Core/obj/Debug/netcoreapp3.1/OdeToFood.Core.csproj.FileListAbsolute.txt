@@ -1,0 +1,12 @@
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.deps.json
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.dll
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.pdb
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.runtimeconfig.json
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp3.1\OdeToFood.Core.runtimeconfig.dev.json
+C:\Users\mari-aiza.canoy\pluralsight_projects\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp3.1\OdeToFood.Core.genruntimeconfig.cache
